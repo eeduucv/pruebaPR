@@ -1,2 +1,9 @@
 Escribe tu nombre debajo
+<<<<<<< HEAD
+-Eduardo
+=======
 Eduardo
+-Juan Esteban Martinez
+- Pablo
+- Baltasar
+>>>>>>> 774bebdbd0e3770ef666b4de710236e39ae7ed86
