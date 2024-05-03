@@ -5,5 +5,9 @@ Escribe tu nombre debajo
 Eduardo
 -Juan Esteban Martinez
 - Pablo
+<<<<<<< HEAD
+- Baltasar
+>>>>>>> 774bebdbd0e3770ef666b4de710236e39ae7ed86
+=======
 - Baltasar
 >>>>>>> 774bebdbd0e3770ef666b4de710236e39ae7ed86
